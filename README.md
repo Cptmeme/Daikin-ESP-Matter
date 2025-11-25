@@ -6,10 +6,8 @@ Code copied or inspiration taken from:
 
 -https://github.com/espressif/esp-matter (copied example code for A/C)
 
--https://github.com/suzuke/DaiSpan (copied drivers)
-
 -https://github.com/revk/ESP32-Faikin (inspiration)
 
--https://github.com/joshbenner/esphome-daikin-s21 (inspiration)
+-https://github.com/asund/esphome-daikin-s21 (inspiration)
 
 
