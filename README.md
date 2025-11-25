@@ -1,4 +1,4 @@
-Currently not working
+Work in progress
 
 ESP32 project to get matter to work with all Daikin A/C with a S21 port.
 
