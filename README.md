@@ -13,5 +13,8 @@ Code copied or inspiration taken from:
 Custom PCB:
 Based on an esp32c6-mini-1 to allow for thread support, can also be used for esphome.
 
+WARNING!:
+Do not connect the pcb to the A/C and a PC over the usb-c port at the same time as this will short out your usb port!
+
 Main:
 Main code for a matter thermostat example, can be used by taking the official A/C example from the esp-matter repository and replacing the main files with the ones in this repository
