@@ -1,8 +1,7 @@
 
 # Thermostat
 
-This example creates a Thermostat device using the ESP
-Matter data model.
+This code is based on the thermostat example from Esp-matter. It has been adapted to work with daikin A/Cs that make use of the s21 port/protocol.
 
 See the [docs](https://docs.espressif.com/projects/esp-matter/en/latest/esp32/developing.html) for more information about building and flashing the firmware.
 
