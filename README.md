@@ -2,9 +2,11 @@ It works!!
 
 Still some bugs to iron out but basic functionality now works! 
 
+Has been tested to work with the custom PCB provided in this repo connected to a Daikin FTXM25R5V1B
+
 Heating/cooling supported.
 
-ESP32 project to get matter to work with all Daikin A/C with a S21 port.
+ESP32 project to get matter to work with my Daikin A/C with a S21 port.
 
 Code copied or inspiration taken from:
 
