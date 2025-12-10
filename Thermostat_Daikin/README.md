@@ -12,3 +12,7 @@ No additional setup is required.
 ## 2. Post Commissioning Setup
 
 No additional setup is required.
+
+## 3. Matter setup
+
+Use matter code: 3497-011-2332 to pair the device to your matter controller.
